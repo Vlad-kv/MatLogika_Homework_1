@@ -1,3 +1,5 @@
+//  -std=c1++11 (использовать 11 стандарт)
+
 #include <iostream>
 #include <cstdlib>
 #include <cstdio>
